@@ -1,0 +1,21 @@
+Dentro da pasta Android e IOS ficam os códigos nativos da aplicação, que é ultilixado pelo React Native
+  para construir a interface da aplicação.
+
+node modules- dependencias estaladas pelo yarn ou outro.
+
+esclitc pritter - são guias de estilo
+
+watchmanconfig - usa para detectar automaticamente e fazer realod da aaplicação 
+
+metro.config - converte o js em um pacote que será enviado paranosso aplicativo
+
+package.json -  dependenncia de produção
+
+index.js - registra o componente global que importa esse componente no arquivo app
+
+
+
+entrar na pasta Backend " cd Backend " e depois " yarn dev"  para excutar o projeto.
+
+" yarn add axios " para consumir dados de uma API 
+
